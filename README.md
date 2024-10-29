@@ -1,4 +1,4 @@
-# Viva Market
+# 🧺 Viva Market
 
 Bem-vindo ao projeto **Viva Market**, uma plataforma web desenvolvida para a exibição de produtos e serviços de um minimercado. Este site foi desenvolvido para a Fase 1 do Projeto da Disciplina de Fundamentos de Sistemas Web.
 
