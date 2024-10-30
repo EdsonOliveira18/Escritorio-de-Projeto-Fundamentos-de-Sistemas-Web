@@ -31,7 +31,7 @@ O projeto utiliza uma estrutura simples em HTML para organizar as informações 
 
 Este projeto está hospedado no GitHub Pages. Você pode acessá-lo diretamente através do link abaixo:
 
-- **GitHub Pages**: [Link para Viva Market](https://seu-usuario.github.io/viva-market)
+- **GitHub Pages**: [Link para Viva Market](https://edsonoliveira18.github.io/Fase-1-Escritorio-de-Projeto-Fundamentos-de-Sistemas-Web/)
 
 ## Onde me encontrar
 
