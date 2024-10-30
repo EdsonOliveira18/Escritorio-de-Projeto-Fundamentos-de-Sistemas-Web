@@ -9,6 +9,7 @@ Desenvolver uma plataforma web interativa e amigável para que os clientes possa
 ## Estrutura do Projeto
 
 ### Funcionalidades
+
 - **Navegação Intuitiva**: Links para acessar cada categoria de produtos e os serviços disponíveis.
 - **Categorias de Produtos**:
   - **Frutas e Verduras**: Exibição de produtos frescos com descrição e preço.
@@ -19,7 +20,9 @@ Desenvolver uma plataforma web interativa e amigável para que os clientes possa
   - **Tele-entrega**: Serviço de entrega a um custo adicional.
 
 ### Estrutura HTML
+
 O projeto utiliza uma estrutura simples em HTML para organizar as informações de cabeçalho, corpo e rodapé:
+
 - **Header**: Nome do minimercado e links de navegação.
 - **Body**: Seções para cada categoria de produto e uma seção para os serviços.
 - **Footer**: Informações de contato e links adicionais.
@@ -29,10 +32,6 @@ O projeto utiliza uma estrutura simples em HTML para organizar as informações 
 Este projeto está hospedado no GitHub Pages. Você pode acessá-lo diretamente através do link abaixo:
 
 - **GitHub Pages**: [Link para Viva Market](https://seu-usuario.github.io/viva-market)
-
-## Como Contribuir
-
-Este projeto é um trabalho autoral e individual. Caso tenha sugestões ou feedback, sinta-se à vontade para enviar uma mensagem.
 
 ## Onde me encontrar
 
